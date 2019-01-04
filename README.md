@@ -7,14 +7,18 @@ Divinity][divinity], but as noted on the website and in the samples, the two
 style guides differ. Mr. Surber's template differs from the History department's
 sample in these respects:
 
-- The title page is formatted differently. (similar to #1)
-- Page numbering starts on the title page. (like #2 but a bit worse)
+- The title page is formatted differently. (similar to [#1][i1])
+- Page numbering starts on the title page. (like [#2][i2] but a bit worse)
 - The Table of Contents is labeled as such, rather than simply "Contents".
-- The ToC entries aren't bold. (#3)
+- The ToC entries aren't bold. ([#3][i3])
 - Footnote numbers are full-size followed by a period, rather than superscript.
-  (#5)
+  ([#5][i5])
 
 [divinity]: https://www.liberty.edu/divinity/index.cfm?PID=28160
 [guide]: https://www.liberty.edu/academics/casas/academicsuccess/index.cfm?PID=11954
+[i1]: https://github.com/samestep/lu-turabian/issues/1
+[i2]: https://github.com/samestep/lu-turabian/issues/2
+[i3]: https://github.com/samestep/lu-turabian/issues/3
+[i5]: https://github.com/samestep/lu-turabian/issues/5
 [package]: http://mirrors.ctan.org/macros/latex/contrib/turabian-formatting/turabian-formatting-doc.pdf
 [template]: https://www.overleaf.com/latex/templates/lu-turabian-latex-template-with-user-guide/dpdyjndnjkgy
