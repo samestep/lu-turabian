@@ -14,11 +14,14 @@ sample in these respects:
 - Footnote numbers are full-size followed by a period, rather than superscript.
   ([#5][i5])
 
+I make use of the lovely [`turabian-formatting` package][package] by Omar
+Abdool.
+
 [divinity]: https://www.liberty.edu/divinity/index.cfm?PID=28160
 [guide]: https://www.liberty.edu/academics/casas/academicsuccess/index.cfm?PID=11954
 [i1]: https://github.com/samestep/lu-turabian/issues/1
 [i2]: https://github.com/samestep/lu-turabian/issues/2
 [i3]: https://github.com/samestep/lu-turabian/issues/3
 [i5]: https://github.com/samestep/lu-turabian/issues/5
-[package]: http://mirrors.ctan.org/macros/latex/contrib/turabian-formatting/turabian-formatting-doc.pdf
+[package]: https://ctan.org/pkg/turabian-formatting
 [template]: https://www.overleaf.com/latex/templates/lu-turabian-latex-template-with-user-guide/dpdyjndnjkgy
