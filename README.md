@@ -4,7 +4,7 @@ LU Turabian
 A LaTeX template for [Turabian research papers at Liberty University][guide].
 [Such a template][template] already exists [for the School of
 Divinity][divinity], but as noted on the website and in the samples, the two
-style guides differ. Mr. Surbers' template differs from the History department's
+style guides differ. Mr. Surber's template differs from the History department's
 sample in these respects:
 
 - The title page is formatted differently. (similar to #1)
