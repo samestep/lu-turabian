@@ -15,8 +15,8 @@ sample in these respects:
   ([#5][i5])
 
 I make use of the lovely [`turabian-formatting` package][package] by Omar
-Abdool. To compile the template, clone the repository, open a terminal in it,
-and run this command:
+Abdool. To compile the template you just need to clone the repository, open a
+terminal in it, and run this command:
 ```sh
 latexmk -pdf
 ```
