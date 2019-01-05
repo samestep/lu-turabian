@@ -15,7 +15,11 @@ sample in these respects:
   ([#5][i5])
 
 I make use of the lovely [`turabian-formatting` package][package] by Omar
-Abdool.
+Abdool. To compile the template, clone the repository, open a terminal in it,
+and run this command:
+```sh
+latexmk -pdf
+```
 
 [divinity]: https://www.liberty.edu/divinity/index.cfm?PID=28160
 [guide]: https://www.liberty.edu/academics/casas/academicsuccess/index.cfm?PID=11954
