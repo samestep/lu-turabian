@@ -1,7 +1,7 @@
 LU Turabian
 ===========
 
-A LaTeX version of the sample paper for [Turabian research papers at Liberty
+A LaTeX version of the [sample paper][sample] for [Turabian research papers at Liberty
 University][guide]. [Such a template][template] already exists [for the School
 of Divinity][divinity], but as noted on the website and in the samples, the two
 style guides differ. Mr. Surber's template differs from the History department's
@@ -25,4 +25,5 @@ latexmk -pdf
 [i2]: https://github.com/samestep/lu-turabian/issues/2
 [i3]: https://github.com/samestep/lu-turabian/issues/3
 [package]: https://ctan.org/pkg/turabian-formatting
+[sample]: https://www.liberty.edu/media/1171/Turabian_-_Non-Divinity_-_Notes-Bibliography_Format.pdf
 [template]: https://www.overleaf.com/latex/templates/lu-turabian-latex-template-with-user-guide/dpdyjndnjkgy
