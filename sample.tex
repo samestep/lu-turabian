@@ -10,6 +10,7 @@
 \usepackage[super]{nth}
 \usepackage{setspace}
 \usepackage{soul}
+\usepackage{tocstyle}
 \usepackage{xcolor}
 \usepackage{xfrac}
 
@@ -17,6 +18,9 @@
 
 \definecolor{lightblue}{rgb}{0,1,1}
 \sethlcolor{lightblue}
+
+\newtocstyle[standard][leaders]{standardwithdot}{}
+\usetocstyle{standardwithdot}
 
 \newcommand*{\bluehref}[2]{\href{#1}{\color{blue}\ul{#2}}}
 \newcommand*{\subsubsubsection}[1]{\subsubsection{\normalfont #1}}
