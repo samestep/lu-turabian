@@ -11,6 +11,10 @@ Content
 Formatting
 ----------
 
+- Technically, my version uses fonts **NimbusRomNo9L-Regu**,
+  **NimbusRomNo9L-Medi**, **NimbusRomNo9L-ReguItal**, **CMTT10**, and **CMTT12**
+  instead of **TimesNewRomanPS-BoldMT**, **TimesNewRomanPSMT**,
+  **TimesNewRomanPS-ItalicMT**, **SymbolMT** and **ArialMT**.
 - Page numbers of top-level sections in the table of contents are bold in my
   version.
 - Bold underlining is thinner in my version.
