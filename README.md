@@ -12,20 +12,18 @@ Why
 
 [Such a template][template] already exists [for the
 School of Divinity][divinity], but as noted on the website and in the samples,
-the two style guides differ. Mr. Surber's template differs from the History
-department's sample in these respects:
+the two style guides differ. Mr. Surber's template is less faithful than this
+repository in the following respects:
 
-- The title page is formatted differently. (similar to [#1][i1])
-- Page numbering starts on the title page. (like [#2][i2] but a bit worse)
+- The title page is formatted differently.
+- Page numbering starts on the title page.
 - The Table of Contents is labeled as such, rather than simply "Contents".
-- The ToC entries aren't bold. ([#3][i3])
-- Footnote numbers are full-size followed by a period, rather than superscript.
-  ([#5][i5], but I do this too as discussed [here][differences])
+- The ToC entries aren't bold.
 
-In addition, while Mr. Surber's template is merely a template, this repository
-houses a full copy of Liberty's sample Turabian paper, which means that you can
-use it to figure out how to do a great number of things without consulting
-external documentation.
+More importantly, while Mr. Surber's template is merely a template, this
+repository houses a full copy of Liberty's sample Turabian paper, which means
+that you can use it to figure out how to do a great number of things without
+consulting external documentation.
 
 I tried to be as faithful to the original sample as possible, but I wasn't able
 to get everything quite perfect. See [`differences.md`][differences] for a
@@ -57,10 +55,6 @@ Two options.
 [divinity]: https://www.liberty.edu/divinity/index.cfm?PID=28160
 [git]: https://git-scm.com/downloads
 [guide]: https://www.liberty.edu/academics/casas/academicsuccess/index.cfm?PID=11954
-[i1]: https://github.com/samestep/lu-turabian/issues/1
-[i2]: https://github.com/samestep/lu-turabian/issues/2
-[i3]: https://github.com/samestep/lu-turabian/issues/3
-[i5]: https://github.com/samestep/lu-turabian/issues/5
 [latex]: https://www.latex-project.org/
 [latexmk]: https://mg.readthedocs.io/latexmk.html#installation
 [main]: https://raw.githubusercontent.com/samestep/lu-turabian/master/main.tex
