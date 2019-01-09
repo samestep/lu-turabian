@@ -28,9 +28,8 @@ use it to figure out how to do a great number of things without consulting
 external documentation.
 
 I tried to be as faithful to the original sample as possible, but I wasn't able
-to get everything quite perfect. See [`differences.md`][differences] for a (to
-the best of my knowledge) comprehensive list of differences between this
-document and the original.
+to get everything quite perfect. See [`differences.md`][differences] for a
+nearly comprehensive list of differences between this document and the original.
 
 How
 ---
