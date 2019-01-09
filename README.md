@@ -1,11 +1,11 @@
 LU Turabian
 ===========
 
-A LaTeX version of the [sample paper][sample] for [Turabian research papers at Liberty
-University][guide]. [Such a template][template] already exists [for the School
-of Divinity][divinity], but as noted on the website and in the samples, the two
-style guides differ. Mr. Surber's template differs from the History department's
-sample in these respects:
+A LaTeX version of the [sample paper][sample] for [Turabian research papers at
+Liberty University][guide]. [Such a template][template] already exists [for the
+School of Divinity][divinity], but as noted on the website and in the samples,
+the two style guides differ. Mr. Surber's template differs from the History
+department's sample in these respects:
 
 - The title page is formatted differently. (similar to [#1][i1])
 - Page numbering starts on the title page. (like [#2][i2] but a bit worse)
