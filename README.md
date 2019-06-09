@@ -1,5 +1,4 @@
-LU Turabian
-===========
+# LU Turabian [![Build Status][status]][travis]
 
 What
 ----
@@ -61,4 +60,6 @@ Two options.
 [overleaf]: https://www.overleaf.com/
 [refs]: https://raw.githubusercontent.com/samestep/lu-turabian/master/refs.bib
 [sample]: https://www.liberty.edu/media/1171/Turabian_-_Non-Divinity_-_Notes-Bibliography_Format.pdf
+[status]: https://travis-ci.com/samestep/lu-turabian.svg?branch=master
 [template]: https://www.overleaf.com/latex/templates/lu-turabian-latex-template-with-user-guide/dpdyjndnjkgy
+[travis]: https://travis-ci.com/samestep/lu-turabian
