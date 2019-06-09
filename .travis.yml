@@ -6,6 +6,7 @@ addons:
   apt:
     packages:
       - latexmk
+      - texlive-bibtex-extra
       - texlive-full
 script:
   - mkdir pdf
