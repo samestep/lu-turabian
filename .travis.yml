@@ -6,6 +6,7 @@ branches:
 addons:
   apt:
     packages:
+      - biber
       - latexmk
       - texlive-bibtex-extra
       - texlive-full
