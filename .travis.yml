@@ -1,0 +1,18 @@
+language: minimal
+branches:
+  only:
+    - master
+addons:
+  apt:
+    packages:
+      - latexmk
+      - texlive-full
+script:
+  - mkdir pdf
+  - latexmk -cd -pdf **/*.tex
+  - mv *.pdf pdf
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: pdf
+  github_token: $GITHUB_TOKEN
