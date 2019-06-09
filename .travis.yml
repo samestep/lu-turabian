@@ -9,7 +9,7 @@ addons:
       - texlive-full
 script:
   - mkdir pdf
-  - latexmk -cd -pdf **/*.tex
+  - latexmk -pdf
   - mv *.pdf pdf
 deploy:
   provider: pages
